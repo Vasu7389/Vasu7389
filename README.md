@@ -1,16 +1,19 @@
-### Hi there 👋
+## Vasu Awasthi
 
-<!--
-**Vasu7389/Vasu7389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there!
 
-Here are some ideas to get you started:
+I am a Full Stack Developer with 3.5+ years of experience.
+My primary focus is on building web applications using 💻 JavaScript, Java, HTML, and CSS.
+I have expertise in using 🔥 ReactJS and NextJS frameworks and libraries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu7389&layout=compact)](https://github.com/Vasu7389/github-readme-stats)
+
+🌍 My website: www.codinn.dev
+
+📊 You can find my open source contributions. I welcome and appreciate any contributions to my repositories! 🤝
+
+[![Vasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasu7389&theme=prussian&show_icons=true)](https://github.com/Vasu7389/github-readme-stats)
+
+🔗 Check out my LinkedIn profile for more information: www.linkedin.com/in/vasu-awasthi-👨‍💻-9a820b137
+
+🎉 Thanks for stopping by! Let's connect and work on some cool projects together. 🚀
