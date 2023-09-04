@@ -2,7 +2,7 @@
 
 Hi there!
 
-I am a Full Stack Developer with 3.5+ years of experience.
+I am a Full Stack Developer with 4+ years of experience.
 My primary focus is on building web applications using 💻 JavaScript, Java, HTML, and CSS.
 I have expertise in using 🔥 ReactJS and NextJS frameworks and libraries.
 
@@ -14,6 +14,6 @@ I have expertise in using 🔥 ReactJS and NextJS frameworks and libraries.
 
 [![Vasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasu7389&theme=prussian&show_icons=true)](https://github.com/Vasu7389/github-readme-stats)
 
-🔗 Check out my LinkedIn profile for more information: www.linkedin.com/in/vasu-awasthi-👨‍💻-9a820b137
+🔗 Check out my LinkedIn profile for more information or to contact/connect/follow: [Vasu Awasthi's LinkedIn](https://www.linkedin.com/in/vasu-awasthi/)
 
 🎉 Thanks for stopping by! Let's connect and work on some cool projects together. 🚀
